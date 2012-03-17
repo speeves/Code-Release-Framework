@@ -1,0 +1,224 @@
+#!/bin/bash
+####################
+#
+#     Copyright 2011 Shannon Eric Peevey <speeves@erikin.com>
+#
+#     This program is free software; you can redistribute it and/or modify
+#     it under the terms of the GNU General Public License as published by
+#     the Free Software Foundation; either version 2 of the License, or
+#     (at your option) any later version.
+#
+#     This program is distributed in the hope that it will be useful,
+#     but WITHOUT ANY WARRANTY; without even the implied warranty of
+#     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#     GNU General Public License for more details.
+#
+#     You should have received a copy of the GNU General Public License
+#     along with this program; if not, write to the Free Software
+#     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+#
+#####################
+#
+# Build Team Deployment Script
+# This script automates the deployment of webapp
+# 
+####################
+
+# load the common library
+. lib/common.sh
+
+### Initialize variables
+LOCALMACHINE=$(hostname)
+ME=$(whoami)
+WORKSPACE="/home/speeves/Documents/workspace/"
+TMPDIR="/tmp/"
+STAGINGDIR="/usr/local/www/staging/"
+BACKUPDIR="/usr/local/www/backups/"
+WEBROOT="/usr/local/www/webroot/"
+REPO="file://${WORKSPACE}"
+PROJECT="buildchallenge"
+PROJECTBUILDAREA="buildarea"
+APPFILENAME='z'
+BOX_NAME_PREFIX="target"
+DEPLOYMENT_LOG="${WORKSPACE}${PROJECT}/deploymentscript/log/deployment.$(date +%Y%d%m).log"
+usage="
+Usage: 
+
+Build:     ${0} [-hb] -t <tagname>
+Deploy:    ${0} [-hdqpaAU] -r [box-range] <filename>
+Verify:    ${0} -r [box-range] -v [t_old|t]
+Fallback:  ${0} [-dqpr] [box-range] -f
+
+ Help Options
+ -h		This message
+
+ Options:
+ -r             Range of boxes to which we will deploy
+
+ Environmental Options
+ -d             Perform command in Dev environment
+ -q             Perform command in QA environment
+ -p             Perform command in Prod environment
+ 
+ Build Options
+ -b             Checkout and tar files from git TAG. Built files are tar'd in ./buildarea/build/z.tar
+ -t             git TAG from which to build
+
+ Deploy Options
+ -a             stage files to target servers (step 1 in a 2-stage deploy)
+ -A             deploy staged files on target servers (step 2 in a 2-stage deploy)
+ -U             stage and deploy files to specified servers (1-stage deploy)
+
+ Verification Options
+ -v             Run a verification procedure 
+                (Check Types:
+                  t_old|templates_old - check the z.old files against z
+                  t|templates         - returns the cksum of all templates in the z directory
+                )
+
+Fallback Options
+ -f             fallback templates to last good production state
+
+---------------------------
+
+Build Examples
+  - Checkout files from GIT at TAG v0.1 and prepare them for deployment
+   ${0} -b -t v0.1
+
+Deployment Examples:
+  - (step 1) To stage the files to targetqa160,targetqa162-targetqa165 (2-stage deploy)
+   ${0} -qa -r 160,162-165 buildarea/build/z.tar
+  - (step 2) To deploy pre-staged files to targetqa160,targetqa162-targetqa165 (2-stage deploy)
+   ${0} -qA -r 160,162-165 
+  - stage and deploy the files to targetqa160,targetqa162-targetqa165 in 1 step (1-stage deploy)
+   ${0} -qU -r 160,162-165 buildarea/build/z.tar
+
+Verification Examples:
+  - cksum z.old files against z and print out the files which are different
+    (helps to verify that we have changes in the files that we expect (across all machines))
+   ${0} -pvr 300-302,307,420-421 t_old
+  - returns the cksum of all templates in the z directory
+    (helps to verify that all machines have the same files on every server)
+   ${0} -pvr 300-302,307,420-421 t
+
+Fallback Examples
+  - Replace the current files with z.old (last good production state)
+    ${0} -pr [box-range] -f
+
+Notes:
+  - Boxes are passed in a comma-delimited list, (ie 1,2,3), with ranges of contiguous boxes separated 
+    by hyphens, (ie 1-4,10-15). One may mix single boxes and ranges of boxes in the following fashion, 300-302,307,420-421.
+  - The box number is designated with the variable \${b}: 'ssh targetdev\${b}'
+
+---------------------------
+
+"
+while getopts "r:dqpbt:aAUPvfh" OPT
+do
+    case $OPT in
+	r )
+	    RANGE_OF_BOXES=$OPTARG
+	    ;;
+	d )
+	    ENVIRONMENT="dev"
+	    BOX_NAME_ENVIRONMENT="dev"
+	    ;;
+	q ) 
+	    ENVIRONMENT="qa"
+	    BOX_NAME_ENVIRONMENT="qa"
+	    ;;
+	p )
+	    ENVIRONMENT="prod"
+	    BOX_NAME_ENVIRONMENT="prod"
+	    ;;
+	b )
+	    BUILD="yes"
+	    ;;
+	t )
+	    TAG=$OPTARG
+	    ;;
+	a )
+	    DEPLOY="stage_all"
+	    ;;
+	A )
+	    DEPLOY="stage2_all"
+	    ;;
+	U )
+	    DEPLOY="update_all"
+	    ;;
+	v )
+	    VERIFY="yes"
+	    ;;
+	f )
+	    FALLBACK="yes"
+	    ;;
+	h )
+	    echo "$usage"
+	    exit 1
+	    ;;
+	\?) 
+	    echo "$usage"
+            exit 1;;
+	esac
+done
+# remove the flags from $@
+shift $((${OPTIND} - 1))
+
+# If ENVIRONMENT is not defined, we need to prompt or exit
+if [ "$ENVIRONMENT" == "" ] && [ "$BUILD" == "" ]; then
+     echo
+     echo "$usage"
+     exit 1
+fi
+
+## Set Variables
+if [ "$ENVIRONMENT" != "" ] || [ "$VERIFY" == "yes" ]; then
+    filename=$1
+    filename_removeprefix=$( basename $filename )
+fi
+
+# build our hostnames
+hostname_prefix=${BOX_NAME_PREFIX}${BOX_NAME_MAKE}${BOX_NAME_ENVIRONMENT}
+
+# log that we are starting and who is running us
+echo "[$(date)] - INFO - ${ME} - starting process for ${ME}" >> $DEPLOYMENT_LOG
+
+if [ "$VERIFY" == "yes" ]; then
+    # grab the appropriate verify command
+    case $filename in
+	t_old|templates_old )
+	    check_templates_old_new_diff
+	    ;;
+	t|templates )
+  	    check_templates_cksum
+	    ;;
+    esac
+elif [ "$BUILD" == "yes" ]; then
+    build_from_tag
+elif [ "$FALLBACK" == "yes" ]; then
+    restore_from_last
+else
+    # If this is a deploy, grab the appropriate deploy command
+    if [ "$DEPLOY" != "" ]; then
+	case $DEPLOY in
+	    stage_all )
+		stage_all
+		;;
+	    stage2_all )
+		stage2_all
+		;;
+	    update_all ) 
+		update_all
+		;;
+	esac
+    fi
+fi
+
+# run the specified command
+if [ "$BUILD" != "yes" ]; then
+    createstartend
+fi
+
+# log that we are finished and who is running us
+echo "[$(date)] - INFO - ${ME} - stopping for ${ME}" >> $DEPLOYMENT_LOG
+

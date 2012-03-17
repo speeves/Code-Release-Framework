@@ -1,0 +1,798 @@
+[Tue Jul 19 00:21:56 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 00:21:56 CDT 2011] - INFO - speeves - 1
+[Tue Jul 19 00:21:56 CDT 2011] - SUCCESS - speeves - 1 completed
+[Tue Jul 19 00:21:56 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 00:23:10 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 00:23:10 CDT 2011] - INFO - speeves - 1
+[Tue Jul 19 00:23:10 CDT 2011] - SUCCESS - speeves - 1 completed
+[Tue Jul 19 00:23:10 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 00:23:16 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 00:23:16 CDT 2011] - INFO - speeves - 1
+[Tue Jul 19 00:23:16 CDT 2011] - SUCCESS - speeves - 1 completed
+[Tue Jul 19 00:23:16 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 00:23:24 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 00:23:24 CDT 2011] - INFO - speeves - 1
+[Tue Jul 19 00:23:24 CDT 2011] - SUCCESS - speeves - 1 completed
+[Tue Jul 19 00:23:24 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 00:23:34 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 00:23:34 CDT 2011] - INFO - speeves - 1
+[Tue Jul 19 00:23:34 CDT 2011] - SUCCESS - speeves - 1 completed
+[Tue Jul 19 00:23:34 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 10:19:35 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 10:19:35 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 10:19:48 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 10:19:48 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 10:20:52 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 10:20:52 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 10:22:35 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 10:22:35 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 10:22:54 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 10:22:54 CDT 2011] - INFO - speeves - build app from v0.1
+[Tue Jul 19 10:25:27 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 10:25:27 CDT 2011] - INFO - speeves - build app from v0.1
+[Tue Jul 19 10:30:36 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 10:30:36 CDT 2011] - INFO - speeves - build app from v0.1
+[Tue Jul 19 10:30:36 CDT 2011] - SUCCESS - speeves - build app from v0.1 completed
+[Tue Jul 19 10:30:36 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 10:32:32 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 10:32:32 CDT 2011] - INFO - speeves - build app from v0.1
+[Tue Jul 19 10:32:32 CDT 2011] - SUCCESS - speeves - build app from v0.1 completed
+[Tue Jul 19 10:32:32 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:33:53 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:33:53 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:36:26 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:36:26 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:40:32 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:40:32 CDT 2011] - INFO - speeves - build app from v0.1
+[Tue Jul 19 12:40:32 CDT 2011] - SUCCESS - speeves - build app from v0.1 completed
+[Tue Jul 19 12:40:32 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:48:13 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:48:13 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 12:48:13 CDT 2011] - FAIL - speeves - staging buildarea/build/z.tar to targetqa1 failed 
+[Tue Jul 19 12:48:13 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:50:46 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:50:46 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 12:50:49 CDT 2011] - FAIL - speeves - staging buildarea/build/z.tar to targetqa1 failed 
+[Tue Jul 19 12:50:49 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:51:10 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:51:10 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 12:51:10 CDT 2011] - FAIL - speeves - staging buildarea/build/z.tar to targetqa1 failed 
+[Tue Jul 19 12:51:10 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:52:20 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:52:20 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 12:52:20 CDT 2011] - FAIL - speeves - staging buildarea/build/z.tar to targetqa1 failed 
+[Tue Jul 19 12:52:20 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:54:41 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:54:41 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 12:54:41 CDT 2011] - FAIL - speeves - staging buildarea/build/z.tar to targetqa1 failed 
+[Tue Jul 19 12:54:41 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:57:23 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:57:23 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 12:57:24 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 12:57:24 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:58:37 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:58:37 CDT 2011] - INFO - speeves - imping staged file  on targetqa1
+[Tue Jul 19 12:58:37 CDT 2011] - SUCCESS - speeves - imping staged file  on targetqa1 completed
+[Tue Jul 19 12:58:37 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 12:59:55 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 12:59:55 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 12:59:55 CDT 2011] - FAIL - speeves - deploying buildarea/build/z.tar targetqa2 failed 
+[Tue Jul 19 12:59:55 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 12:59:57 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 12:59:57 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:04:13 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:04:13 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 13:04:14 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 13:04:14 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 13:04:16 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 13:04:16 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:11:04 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:11:04 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:11:14 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 13:11:14 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:13:43 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:13:43 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:13:44 CDT 2011] - FAIL - speeves - list changed templates on targetqa1 failed 
+[Tue Jul 19 13:13:44 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:14:38 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:14:38 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:14:38 CDT 2011] - FAIL - speeves - list changed templates on targetqa1 failed 
+[Tue Jul 19 13:14:38 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:15:30 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:15:30 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:15:30 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 13:15:30 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:23:12 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:23:12 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:23:13 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 13:23:13 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:23:22 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:23:22 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:23:22 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 13:23:22 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:23:30 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:23:30 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:23:31 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 13:23:31 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 13:23:31 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 13:23:31 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 13:23:31 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 13:23:31 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 13:23:31 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 13:23:31 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:25:48 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:25:49 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:28:51 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:28:51 CDT 2011] - INFO - speeves - 1
+[Tue Jul 19 13:28:51 CDT 2011] - SUCCESS - speeves - 1 completed
+[Tue Jul 19 13:28:51 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:42:44 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:42:45 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 13:43:05 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:43:05 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 13:43:06 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 13:43:06 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:43:22 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:43:22 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 13:43:25 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 13:43:25 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 13:43:25 CDT 2011] - FAIL - speeves - cksum templates on targetqa2 failed 
+[Tue Jul 19 13:43:25 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 13:43:25 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 13:43:25 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 13:43:25 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 13:43:25 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:44:00 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:44:00 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 13:44:02 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 13:44:02 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 13:44:02 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 13:44:02 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 13:44:02 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 13:44:02 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 13:44:02 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 13:44:02 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:45:11 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:45:11 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 13:45:13 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 13:45:13 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 13:45:13 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 13:45:13 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 13:45:13 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 13:45:13 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 13:45:13 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 13:45:13 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:47:36 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:47:37 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 13:47:39 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 13:47:39 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 13:47:39 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 13:47:39 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 13:47:39 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 13:47:39 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 13:47:39 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 13:47:39 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:50:18 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:50:18 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 13:50:18 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 13:50:18 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:50:47 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:50:48 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 13:50:48 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 13:50:48 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:52:40 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:52:40 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 13:52:40 CDT 2011] - FAIL - speeves - list changed templates on targetqa4 failed 
+[Tue Jul 19 13:52:40 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:52:48 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:52:48 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 13:52:48 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 13:52:48 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 13:52:57 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 13:52:57 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 13:52:58 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 13:52:58 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 13:52:58 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 13:52:58 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 13:52:58 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 13:52:58 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 13:52:58 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 13:52:58 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:00:06 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:00:06 CDT 2011] - INFO - speeves - build app from v0.2
+[Tue Jul 19 14:00:06 CDT 2011] - SUCCESS - speeves - build app from v0.2 completed
+[Tue Jul 19 14:00:06 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:00:21 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:00:21 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 14:00:22 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 14:00:22 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:00:55 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:00:55 CDT 2011] - INFO - speeves - imping staged file  on targetqa1
+[Tue Jul 19 14:00:55 CDT 2011] - SUCCESS - speeves - imping staged file  on targetqa1 completed
+[Tue Jul 19 14:00:55 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:01:45 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:01:45 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:01:59 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:01:59 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:02:40 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:02:40 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:02:40 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:02:40 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:02:52 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:02:52 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:02:52 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:02:52 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:03:17 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:03:17 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:03:17 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:03:17 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 14:03:29 CDT 2011] - FAIL - speeves - list changed templates on targetqa2 failed 
+[Tue Jul 19 14:03:29 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:03:35 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:03:35 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:03:35 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:03:35 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 14:03:38 CDT 2011] - FAIL - speeves - list changed templates on targetqa2 failed 
+[Tue Jul 19 14:03:38 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:03:42 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:03:42 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:03:42 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:03:42 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 14:03:43 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 14:03:43 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:04:10 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:04:10 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:04:10 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:04:10 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:04:10 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:04:10 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:07:03 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:07:03 CDT 2011] - INFO - speeves - build app from v0.2.1
+[Tue Jul 19 14:07:03 CDT 2011] - SUCCESS - speeves - build app from v0.2.1 completed
+[Tue Jul 19 14:07:03 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:07:32 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:07:32 CDT 2011] - INFO - speeves - build app from v0.2.1
+[Tue Jul 19 14:07:32 CDT 2011] - SUCCESS - speeves - build app from v0.2.1 completed
+[Tue Jul 19 14:07:32 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:07:40 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:07:40 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 14:07:40 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 14:07:40 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:07:49 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:07:49 CDT 2011] - INFO - speeves - imping staged file  on targetqa1
+[Tue Jul 19 14:07:49 CDT 2011] - SUCCESS - speeves - imping staged file  on targetqa1 completed
+[Tue Jul 19 14:07:49 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:09:24 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:09:24 CDT 2011] - INFO - speeves - restore from z.old on target1
+[Tue Jul 19 14:13:05 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:13:05 CDT 2011] - INFO - speeves - restore from z.old on target1
+[Tue Jul 19 14:13:30 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:13:30 CDT 2011] - INFO - speeves - restore from z.old on target1
+[Tue Jul 19 14:16:17 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:16:17 CDT 2011] - INFO - speeves - restore from z.old on targetqa1
+[Tue Jul 19 14:16:18 CDT 2011] - FAIL - speeves - restore from z.old on targetqa1 failed 
+[Tue Jul 19 14:16:18 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:18:43 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:18:43 CDT 2011] - INFO - speeves - 1
+[Tue Jul 19 14:18:43 CDT 2011] - SUCCESS - speeves - 1 completed
+[Tue Jul 19 14:18:43 CDT 2011] - INFO - speeves - 3
+[Tue Jul 19 14:18:43 CDT 2011] - SUCCESS - speeves - 3 completed
+[Tue Jul 19 14:18:43 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:18:48 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:18:48 CDT 2011] - INFO - speeves - 1
+[Tue Jul 19 14:18:48 CDT 2011] - SUCCESS - speeves - 1 completed
+[Tue Jul 19 14:18:48 CDT 2011] - INFO - speeves - 3
+[Tue Jul 19 14:18:48 CDT 2011] - SUCCESS - speeves - 3 completed
+[Tue Jul 19 14:18:48 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:18:52 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:18:52 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:18:52 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:18:52 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:18:52 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:18:52 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:19:24 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:19:24 CDT 2011] - INFO - speeves - build app from v0.2.1
+[Tue Jul 19 14:19:24 CDT 2011] - SUCCESS - speeves - build app from v0.2.1 completed
+[Tue Jul 19 14:19:24 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:19:41 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:19:41 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 14:19:41 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 14:19:41 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa2
+[Tue Jul 19 14:19:53 CDT 2011] - FAIL - speeves - staging buildarea/build/z.tar to targetqa2 failed 
+[Tue Jul 19 14:19:53 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa3
+[Tue Jul 19 14:19:53 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa3 completed
+[Tue Jul 19 14:19:53 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa4
+[Tue Jul 19 14:19:53 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa4 completed
+[Tue Jul 19 14:19:53 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:20:34 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:20:34 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 14:20:34 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 14:20:34 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa2
+[Tue Jul 19 14:20:34 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa2 completed
+[Tue Jul 19 14:20:34 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa3
+[Tue Jul 19 14:20:34 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa3 completed
+[Tue Jul 19 14:20:34 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa4
+[Tue Jul 19 14:20:34 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa4 completed
+[Tue Jul 19 14:20:34 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:21:03 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:21:03 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa1
+[Tue Jul 19 14:21:03 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa1 completed
+[Tue Jul 19 14:21:03 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa2
+[Tue Jul 19 14:21:03 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa2 completed
+[Tue Jul 19 14:21:03 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa3
+[Tue Jul 19 14:21:03 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa3 completed
+[Tue Jul 19 14:21:03 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa4
+[Tue Jul 19 14:21:03 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa4 completed
+[Tue Jul 19 14:21:03 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:21:48 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:21:48 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:21:48 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:21:48 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:21:48 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:21:48 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:22:03 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:22:03 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:22:03 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:22:03 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 14:22:04 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 14:22:04 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:22:04 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:22:04 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 14:22:04 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 14:22:04 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:22:26 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:22:26 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:22:26 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:22:26 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 14:22:26 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 14:22:26 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 14:22:26 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 14:22:26 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 14:22:26 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 14:22:26 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:27:29 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:27:29 CDT 2011] - INFO - speeves - build app from v0.2.1
+[Tue Jul 19 14:27:29 CDT 2011] - SUCCESS - speeves - build app from v0.2.1 completed
+[Tue Jul 19 14:27:29 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:27:37 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:27:37 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 14:27:37 CDT 2011] - FAIL - speeves - deploying buildarea/build/z.tar targetqa1 failed 
+[Tue Jul 19 14:27:37 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 14:27:37 CDT 2011] - FAIL - speeves - deploying buildarea/build/z.tar targetqa2 failed 
+[Tue Jul 19 14:27:37 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 14:27:38 CDT 2011] - FAIL - speeves - deploying buildarea/build/z.tar targetqa3 failed 
+[Tue Jul 19 14:27:38 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 14:27:38 CDT 2011] - FAIL - speeves - deploying buildarea/build/z.tar targetqa4 failed 
+[Tue Jul 19 14:27:38 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:29:49 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:29:49 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 14:29:50 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa1 completed
+[Tue Jul 19 14:29:50 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 14:29:50 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 14:29:50 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 14:29:50 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 14:29:50 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 14:29:50 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 14:29:50 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:31:26 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:31:26 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 14:31:27 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa1 completed
+[Tue Jul 19 14:31:27 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 14:31:27 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 14:31:27 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 14:31:27 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 14:31:27 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 14:31:27 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 14:31:27 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:35:45 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:35:45 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 14:35:45 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa1 completed
+[Tue Jul 19 14:35:45 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 14:35:45 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 14:35:45 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 14:35:45 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 14:35:45 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 14:35:46 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 14:35:46 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:36:07 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:36:07 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:36:08 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:36:08 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 14:36:08 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 14:36:08 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 14:36:08 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 14:36:08 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 14:36:08 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 14:36:08 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:36:14 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:36:14 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:36:14 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:36:14 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 14:36:14 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 14:36:14 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:36:14 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:36:14 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 14:36:14 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 14:36:14 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:38:24 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:38:24 CDT 2011] - INFO - speeves - build app from v0.2.2
+[Tue Jul 19 14:38:24 CDT 2011] - SUCCESS - speeves - build app from v0.2.2 completed
+[Tue Jul 19 14:38:24 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:38:49 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:38:49 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 14:38:49 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 14:38:49 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa2
+[Tue Jul 19 14:38:49 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa2 completed
+[Tue Jul 19 14:38:49 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa3
+[Tue Jul 19 14:38:49 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa3 completed
+[Tue Jul 19 14:38:49 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa4
+[Tue Jul 19 14:38:49 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa4 completed
+[Tue Jul 19 14:38:49 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:39:01 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:39:01 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa1
+[Tue Jul 19 14:39:01 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa1 completed
+[Tue Jul 19 14:39:01 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa2
+[Tue Jul 19 14:39:01 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa2 completed
+[Tue Jul 19 14:39:01 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa3
+[Tue Jul 19 14:39:01 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa3 completed
+[Tue Jul 19 14:39:01 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa4
+[Tue Jul 19 14:39:01 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa4 completed
+[Tue Jul 19 14:39:01 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:39:19 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:39:19 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:39:19 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:39:19 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 14:39:19 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 14:39:19 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:39:19 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:39:19 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 14:39:19 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 14:39:19 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:39:22 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:39:22 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:39:23 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:39:23 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 14:39:23 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 14:39:23 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 14:39:23 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 14:39:23 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 14:39:23 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 14:39:23 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:40:30 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:40:31 CDT 2011] - INFO - speeves - restore from z.old on targetqa1
+[Tue Jul 19 14:40:31 CDT 2011] - FAIL - speeves - restore from z.old on targetqa1 failed 
+[Tue Jul 19 14:40:31 CDT 2011] - INFO - speeves - restore from z.old on targetqa2
+[Tue Jul 19 14:40:31 CDT 2011] - FAIL - speeves - restore from z.old on targetqa2 failed 
+[Tue Jul 19 14:40:31 CDT 2011] - INFO - speeves - restore from z.old on targetqa3
+[Tue Jul 19 14:40:31 CDT 2011] - FAIL - speeves - restore from z.old on targetqa3 failed 
+[Tue Jul 19 14:40:31 CDT 2011] - INFO - speeves - restore from z.old on targetqa4
+[Tue Jul 19 14:40:31 CDT 2011] - FAIL - speeves - restore from z.old on targetqa4 failed 
+[Tue Jul 19 14:40:31 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:40:44 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:40:44 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:40:44 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:40:44 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 14:40:44 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 14:40:44 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 14:40:44 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 14:40:44 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 14:40:45 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 14:40:45 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:40:51 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:40:51 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:40:51 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:40:51 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 14:40:51 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 14:40:51 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:40:51 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:40:51 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 14:40:51 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 14:40:51 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:45:12 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:45:12 CDT 2011] - INFO - speeves - build app from v0.2.3
+[Tue Jul 19 14:45:12 CDT 2011] - SUCCESS - speeves - build app from v0.2.3 completed
+[Tue Jul 19 14:45:12 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:45:33 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:45:33 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 14:45:33 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa1 completed
+[Tue Jul 19 14:45:33 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 14:45:34 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 14:45:34 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 14:45:34 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 14:45:34 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 14:45:34 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 14:45:34 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:45:49 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:45:49 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:45:49 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:45:49 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 14:45:49 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 14:45:49 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 14:45:50 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 14:45:50 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 14:45:50 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 14:45:50 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:46:42 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:46:42 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:46:42 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:46:42 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 14:46:42 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 14:46:42 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:46:42 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:46:42 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 14:46:43 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 14:46:43 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:49:42 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:49:42 CDT 2011] - INFO - speeves - build app from v0.3
+[Tue Jul 19 14:49:42 CDT 2011] - SUCCESS - speeves - build app from v0.3 completed
+[Tue Jul 19 14:49:42 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:50:01 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:50:01 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 14:50:01 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 14:50:01 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa2
+[Tue Jul 19 14:50:01 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa2 completed
+[Tue Jul 19 14:50:01 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa3
+[Tue Jul 19 14:50:01 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa3 completed
+[Tue Jul 19 14:50:01 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa4
+[Tue Jul 19 14:50:01 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa4 completed
+[Tue Jul 19 14:50:01 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:50:05 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:50:05 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 14:50:05 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 14:50:05 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa2
+[Tue Jul 19 14:50:05 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa2 completed
+[Tue Jul 19 14:50:05 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa3
+[Tue Jul 19 14:50:06 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa3 completed
+[Tue Jul 19 14:50:06 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa4
+[Tue Jul 19 14:50:06 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa4 completed
+[Tue Jul 19 14:50:06 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:50:13 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:50:13 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa1
+[Tue Jul 19 14:50:14 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa1 completed
+[Tue Jul 19 14:50:14 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa2
+[Tue Jul 19 14:50:14 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa2 completed
+[Tue Jul 19 14:50:14 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa3
+[Tue Jul 19 14:50:14 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa3 completed
+[Tue Jul 19 14:50:14 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa4
+[Tue Jul 19 14:50:14 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa4 completed
+[Tue Jul 19 14:50:14 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:50:39 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:50:39 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 14:50:39 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 14:50:39 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 14:50:39 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 14:50:39 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 14:50:39 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 14:50:39 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 14:50:39 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 14:50:39 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 14:50:43 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 14:50:43 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 14:50:43 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 14:50:43 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 14:50:43 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 14:50:43 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 14:50:43 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 14:50:43 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 14:50:43 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 14:50:43 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:22:53 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:22:53 CDT 2011] - INFO - speeves - build app from v0.3.1
+[Tue Jul 19 15:22:53 CDT 2011] - SUCCESS - speeves - build app from v0.3.1 completed
+[Tue Jul 19 15:22:53 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:23:03 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:23:03 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 15:23:03 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa1 completed
+[Tue Jul 19 15:23:03 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 15:23:04 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 15:23:04 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 15:23:04 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 15:23:04 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 15:23:04 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 15:23:04 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:23:36 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:23:36 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 15:23:36 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 15:23:36 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 15:23:36 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 15:23:36 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 15:23:37 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 15:23:37 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 15:23:37 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 15:23:37 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:23:40 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:23:40 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 15:23:40 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 15:23:40 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 15:23:40 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 15:23:40 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 15:23:41 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 15:23:41 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 15:23:41 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 15:23:41 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:24:32 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:24:32 CDT 2011] - INFO - speeves - build app from v0.3
+[Tue Jul 19 15:24:32 CDT 2011] - SUCCESS - speeves - build app from v0.3 completed
+[Tue Jul 19 15:24:32 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:24:42 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:24:42 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa1
+[Tue Jul 19 15:24:42 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa1 completed
+[Tue Jul 19 15:24:42 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa2
+[Tue Jul 19 15:24:42 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa2 completed
+[Tue Jul 19 15:24:42 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa3
+[Tue Jul 19 15:24:42 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa3 completed
+[Tue Jul 19 15:24:42 CDT 2011] - INFO - speeves - staging buildarea/build/z.tar to targetqa4
+[Tue Jul 19 15:24:42 CDT 2011] - SUCCESS - speeves - staging buildarea/build/z.tar to targetqa4 completed
+[Tue Jul 19 15:24:42 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:24:47 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:24:47 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa1
+[Tue Jul 19 15:24:47 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa1 completed
+[Tue Jul 19 15:24:47 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa2
+[Tue Jul 19 15:24:47 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa2 completed
+[Tue Jul 19 15:24:47 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa3
+[Tue Jul 19 15:24:47 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa3 completed
+[Tue Jul 19 15:24:47 CDT 2011] - INFO - speeves - imping staged file buildarea/build/z.tar on targetqa4
+[Tue Jul 19 15:24:47 CDT 2011] - SUCCESS - speeves - imping staged file buildarea/build/z.tar on targetqa4 completed
+[Tue Jul 19 15:24:47 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:24:58 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:24:58 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 15:24:58 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 15:24:58 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 15:24:59 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 15:24:59 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 15:24:59 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 15:24:59 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 15:24:59 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 15:24:59 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:25:02 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:25:02 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 15:25:02 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 15:25:02 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 15:25:02 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 15:25:02 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 15:25:02 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 15:25:02 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 15:25:02 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 15:25:02 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:30:34 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:30:34 CDT 2011] - INFO - speeves - build app from v0.1
+[Tue Jul 19 15:30:34 CDT 2011] - SUCCESS - speeves - build app from v0.1 completed
+[Tue Jul 19 15:30:34 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:30:34 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:30:34 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 15:30:34 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa1 completed
+[Tue Jul 19 15:30:34 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 15:30:34 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 15:30:34 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 15:30:35 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 15:30:35 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 15:30:35 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 15:30:35 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 15:30:35 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 15:30:35 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:30:35 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 15:30:36 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 15:30:36 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 15:30:36 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 15:30:36 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 15:30:36 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 15:30:36 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 15:30:36 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 15:30:36 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:36:06 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:36:06 CDT 2011] - INFO - speeves - build app from v0.3.1
+[Tue Jul 19 15:36:06 CDT 2011] - SUCCESS - speeves - build app from v0.3.1 completed
+[Tue Jul 19 15:36:06 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:36:06 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:36:06 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 15:36:07 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa1 completed
+[Tue Jul 19 15:36:07 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 15:36:07 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 15:36:07 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 15:36:07 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 15:36:07 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 15:36:07 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 15:36:07 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:36:07 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:36:07 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 15:36:07 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 15:36:07 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 15:36:08 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 15:36:08 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 15:36:08 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 15:36:08 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 15:36:08 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 15:36:08 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 15:36:08 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 15:36:08 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - build app from -h
+[Tue Jul 19 15:42:19 CDT 2011] - SUCCESS - speeves - build app from -h completed
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 15:42:19 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - restore from z.old on targetqa1
+[Tue Jul 19 16:07:21 CDT 2011] - SUCCESS - speeves - restore from z.old on targetqa1 completed
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - restore from z.old on targetqa2
+[Tue Jul 19 16:07:21 CDT 2011] - SUCCESS - speeves - restore from z.old on targetqa2 completed
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - restore from z.old on targetqa3
+[Tue Jul 19 16:07:21 CDT 2011] - SUCCESS - speeves - restore from z.old on targetqa3 completed
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - restore from z.old on targetqa4
+[Tue Jul 19 16:07:21 CDT 2011] - SUCCESS - speeves - restore from z.old on targetqa4 completed
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 16:07:21 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 16:07:21 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 16:07:22 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 16:07:22 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 16:07:22 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 16:07:22 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 16:07:22 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 16:07:22 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 16:07:22 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 16:07:22 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 16:07:53 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 16:07:53 CDT 2011] - INFO - speeves - build app from v0.3.1
+[Tue Jul 19 16:07:53 CDT 2011] - SUCCESS - speeves - build app from v0.3.1 completed
+[Tue Jul 19 16:07:53 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 16:07:53 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 16:07:53 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa1
+[Tue Jul 19 16:07:54 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa1 completed
+[Tue Jul 19 16:07:54 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa2
+[Tue Jul 19 16:07:54 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa2 completed
+[Tue Jul 19 16:07:54 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa3
+[Tue Jul 19 16:07:54 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa3 completed
+[Tue Jul 19 16:07:54 CDT 2011] - INFO - speeves - deploying buildarea/build/z.tar targetqa4
+[Tue Jul 19 16:07:54 CDT 2011] - SUCCESS - speeves - deploying buildarea/build/z.tar targetqa4 completed
+[Tue Jul 19 16:07:54 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 16:07:54 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - list changed templates on targetqa1
+[Tue Jul 19 16:07:55 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa1 completed
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - list changed templates on targetqa2
+[Tue Jul 19 16:07:55 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa2 completed
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - list changed templates on targetqa3
+[Tue Jul 19 16:07:55 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa3 completed
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - list changed templates on targetqa4
+[Tue Jul 19 16:07:55 CDT 2011] - SUCCESS - speeves - list changed templates on targetqa4 completed
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - stopping for speeves
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - starting process for speeves
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - cksum templates on targetqa1
+[Tue Jul 19 16:07:55 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa1 completed
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - cksum templates on targetqa2
+[Tue Jul 19 16:07:55 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa2 completed
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - cksum templates on targetqa3
+[Tue Jul 19 16:07:55 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa3 completed
+[Tue Jul 19 16:07:55 CDT 2011] - INFO - speeves - cksum templates on targetqa4
+[Tue Jul 19 16:07:56 CDT 2011] - SUCCESS - speeves - cksum templates on targetqa4 completed
+[Tue Jul 19 16:07:56 CDT 2011] - INFO - speeves - stopping for speeves

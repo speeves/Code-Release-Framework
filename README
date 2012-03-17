@@ -1,0 +1,118 @@
+Coding Challenge - Build and Release Framework
+
+Usage: ./rundeployandverify.sh [git tag] [box-range] 
+Usage: ./fallbackandverify.sh [box-range] 
+
+Example: ./rundeployandverify.sh v0.3.1 1-4
+Example: ./fallbackandverify.sh 1,3-4
+
+
+Notes:
+  - Boxes are passed in a comma-delimited list, (ie 1,2,3), with ranges of contiguous boxes separated 
+    by hyphens, (ie 1-4,10-15). One may mix single boxes and ranges of boxes in the following fashion, 300-302,307,420-421.
+  - The box number is designated with the variable \${b}: 'ssh targetdev\${b}'
+
+---------------------------
+
+In Depth:
+---------
+
+PHP:
+For my Coding Challenge, I created a PHP application which had both a page to interact with a drop-down menu, (returning
+a different hostname for a database, depending on which option the user chose). The options where Dev, QA, and Prod. The
+second page was an About Us page which had filler text, and was useful when committing changes to git, for tagging and 
+release purposes.
+
+BASH: DEPLOYMENTSCRIPT
+The brains of this application is the runme script in the deploymentscript directory. This script, in turn, sources the
+lib/common.sh file, which has all of the functions necessary to:
+
+1. checkout and prepare our release tarball from a TAG.
+2. perform either a 1-step deploy, (-U), or a 2-step deploy, (-a, then -A).
+3. verify the files which have changed in the release (-v t_old), or verify that the files are the same across all boxes.
+4. fallback routines, (restores the production files to the last production release).
+
+rundeployandverify.sh is simply an umbrella script which takes the desired TAG, and the target boxes, and runs the
+deployment script without intervention. 
+
+fallbackandverify.sh handles fallbacks, and only needs a box range in order to restore the target boxes to the previous release.
+
+EXTRAS:
+
+rundeploymentandverify.sh and fallbackandverify.sh are examples of utility shell scripts that can call runme, but don't fully demonstrate runme's power.
+Here is runme's usage:
+
+Usage: 
+
+Build:     ${0} [-hb] -t <tagname>
+Deploy:    ${0} [-hdqpaAU] -r [box-range] <filename>
+Verify:    ${0} -r [box-range] -v [t_old|t]
+Fallback:  ${0} [-dqpr] [box-range] -f
+
+ Help Options
+ -h		This message
+
+ Options:
+ -r             Range of boxes to which we will deploy
+
+ Environmental Options
+ -d             Perform command in Dev environment
+ -q             Perform command in QA environment
+ -p             Perform command in Prod environment
+ 
+ Build Options
+ -b             Checkout and tar files from git TAG. Built files are tar'd in ./buildarea/build/z.tar
+ -t             git TAG from which to build
+
+ Deploy Options
+ -a             stage files to target servers (step 1 in a 2-stage deploy)
+ -A             deploy staged files on target servers (step 2 in a 2-stage deploy)
+ -U             stage and deploy files to specified servers (1-stage deploy)
+
+ Verification Options
+ -v             Run a verification procedure 
+                (Check Types:
+                  t_old|templates_old - check the z.old files against z
+                  t|templates         - returns the cksum of all templates in the z directory
+                )
+
+Fallback Options
+ -f             fallback templates to last good production state
+
+---------------------------
+
+Build Examples
+  - Checkout files from GIT at TAG v0.1 and prepare them for deployment
+   ${0} -b -t v0.1
+
+Deployment Examples:
+  - (step 1) To stage the files to targetqa160,targetqa162-targetqa165 (2-stage deploy)
+   ${0} -qa -r 160,162-165 buildarea/build/z.tar
+  - (step 2) To deploy pre-staged files to targetqa160,targetqa162-targetqa165 (2-stage deploy)
+   ${0} -qA -r 160,162-165 
+  - stage and deploy the files to targetqa160,targetqa162-targetqa165 in 1 step (1-stage deploy)
+   ${0} -qU -r 160,162-165 buildarea/build/z.tar
+
+Verification Examples:
+  - cksum z.old files against z and print out the files which are different
+    (helps to verify that we have changes in the files that we expect (across all machines))
+   ${0} -pvr 300-302,307,420-421 t_old
+  - returns the cksum of all templates in the z directory
+    (helps to verify that all machines have the same files on every server)
+   ${0} -pvr 300-302,307,420-421 t
+
+Fallback Examples
+  - Replace the current files with z.old (last good production state)
+    ${0} -pr [box-range] -f
+
+Notes:
+  - Boxes are passed in a comma-delimited list, (ie 1,2,3), with ranges of contiguous boxes separated 
+    by hyphens, (ie 1-4,10-15). One may mix single boxes and ranges of boxes in the following fashion, 300-302,307,420-421.
+  - The box number is designated with the variable \${b}: 'ssh targetdev\${b}'
+
+---------------------------
+
+runme is easily extended, and uses a modular syntax that works well with BASH prototyping.
+
+Thank you so much for this opportunity!!
+speeves
